@@ -21,3 +21,11 @@
 | ┣ 📂 scripts                 | Scripts padrão para o desenvolvimento do projeto    |
 | ┣ 📂 notebooks               | Notebooks                                           |
 
+### Criação das pastas do projeto (dentro do ambiente Linux)
+```
+code
+```
+### Criação do ambiente virtual
+```
+code
+```
